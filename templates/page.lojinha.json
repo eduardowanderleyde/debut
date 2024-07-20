@@ -55,7 +55,6 @@
     },
     "collection_7mJkwY": {
       "type": "collection",
-      "disabled": true,
       "settings": {
         "title": "Produtos",
         "collection": "produtos",
@@ -67,6 +66,7 @@
     },
     "feature_row_wYBe87": {
       "type": "feature-row",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-07-20_at_00.59.40_1.jpg",
         "layout": "left",
