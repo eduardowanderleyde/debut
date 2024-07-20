@@ -54,9 +54,21 @@
     },
     "collection_NrCcwK": {
       "type": "collection",
+      "disabled": true,
       "settings": {
         "title": "Featured collection",
         "collection": "produtos",
+        "grid": 3,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
+      }
+    },
+    "collection_PThzye": {
+      "type": "collection",
+      "settings": {
+        "title": "",
+        "collection": "",
         "grid": 3,
         "rows": 2,
         "show_vendor": false,
@@ -67,6 +79,7 @@
   "order": [
     "main",
     "image_bar_jfkd6t",
-    "collection_NrCcwK"
+    "collection_NrCcwK",
+    "collection_PThzye"
   ]
 }
