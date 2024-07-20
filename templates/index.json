@@ -9,18 +9,43 @@
 */
 {
   "sections": {
-    "hero-1": {
-      "type": "hero",
+    "slideshow_qikngy": {
+      "type": "slideshow",
+      "blocks": {
+        "image_KmTBbP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CapturadeTela2024-07-19as20.50.24.png",
+            "alignment": "center center",
+            "slide_title": "Image slide",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "image_8xYMHH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/entrada.jpg",
+            "alignment": "center center",
+            "slide_title": "Image slide",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_KmTBbP",
+        "image_8xYMHH"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/entrada.jpg",
-        "alignment": "center",
-        "hero_layout": "full_width",
-        "hero_size": "medium",
+        "slideshow_height": "small",
         "text_size": "medium",
-        "title": "",
-        "text": "",
-        "button_label": "",
-        "button_link": ""
+        "text_alignment": "center center",
+        "show_overlay": true,
+        "autorotate": true,
+        "autorotate_speed": 3
       }
     },
     "feature-columns": {
@@ -41,7 +66,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/CapturadeTela2024-07-19as20.52.54.png",
+            "image": "shopify:\/\/shop_images\/381660055_1021398452648705_3747019585210669127_n.jpg",
             "title": "Add a title or tagline",
             "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
             "button_label": "",
@@ -178,7 +203,7 @@
     }
   },
   "order": [
-    "hero-1",
+    "slideshow_qikngy",
     "feature-columns",
     "feature-row",
     "collection",
