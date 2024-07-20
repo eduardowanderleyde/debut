@@ -57,7 +57,7 @@
       "settings": {
         "heading": "Nosso Bar",
         "address": "<p>Rua Capitão Lima, 100 - Santo Amaro, Recife - PE, 50040-080<\/p><p>bar • pista • quintal • after ✊🏾🏳️‍🌈<br\/>◾️ <br\/>De quarta a domingo, a partir das 22h<\/p>",
-        "map_address": "https:\/\/maps.app.goo.gl\/PNSiRq1UACK2kYf96",
+        "map_address": "",
         "button_text": "CLIQUE E VÁ ABRA NO GOOGLE MAPS",
         "show_pin": true,
         "api_key": "AIzaSyDooi51QqAvq6gZ5asmPPPVtUca122T_CM",
