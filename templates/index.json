@@ -28,8 +28,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/entrada.jpg",
             "alignment": "center center",
-            "slide_title": "Image slide",
-            "subheading": "Tell your brand's story through images",
+            "slide_title": "",
+            "subheading": "",
             "button_label": "",
             "button_link": ""
           }
