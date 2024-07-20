@@ -21,8 +21,8 @@
           "home_page_only": true,
           "message_text": "Announce something here",
           "message_link": "",
-          "color_bg": "#3a3a3a",
-          "color_text": "#ffffff"
+          "color_bg": "#000000",
+          "color_text": "#000000"
         }
       },
       "feature-row": {

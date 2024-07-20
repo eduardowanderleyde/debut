@@ -15,10 +15,10 @@
         "image_KmTBbP": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CapturadeTela2024-07-19as20.50.24.png",
+            "image": "shopify:\/\/shop_images\/patio.png",
             "alignment": "center center",
-            "slide_title": "Image slide",
-            "subheading": "Tell your brand's story through images",
+            "slide_title": "",
+            "subheading": "",
             "button_label": "",
             "button_link": ""
           }
