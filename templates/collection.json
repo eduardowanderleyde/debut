@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "collection-template",
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "grid": 4,
@@ -20,9 +21,21 @@
         "sort_enable": true,
         "tags_enable": true
       }
+    },
+    "collection_tfVBDN": {
+      "type": "collection",
+      "settings": {
+        "title": "Ingressos",
+        "collection": "frontpage",
+        "grid": 3,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "collection_tfVBDN"
   ]
 }
