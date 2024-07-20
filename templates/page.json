@@ -52,21 +52,22 @@
         "section_height": "medium"
       }
     },
-    "collection_NrCcwK": {
-      "type": "collection",
+    "map_q4eEgY": {
+      "type": "map",
       "settings": {
-        "title": "",
-        "collection": "produtos",
-        "grid": 3,
-        "rows": 2,
-        "show_vendor": false,
-        "show_view_all": false
+        "heading": "Nosso Bar",
+        "address": "<p>Rua Capitão Lima, 100 - Santo Amaro, Recife - PE, 50040-080<\/p><p>bar • pista • quintal • after ✊🏾🏳️‍🌈<br\/>◾️ <br\/>De quarta a domingo, a partir das 22h<\/p>",
+        "map_address": "https:\/\/maps.app.goo.gl\/MKJ7ki93oPpMNk3q8",
+        "button_text": "CLIQUE E VÁ ABRA NO GOOGLE MAPS",
+        "show_pin": true,
+        "api_key": "AIzaSyDooi51QqAvq6gZ5asmPPPVtUca122T_CM",
+        "background_image_position": "center center"
       }
     }
   },
   "order": [
     "main",
     "image_bar_jfkd6t",
-    "collection_NrCcwK"
+    "map_q4eEgY"
   ]
 }
