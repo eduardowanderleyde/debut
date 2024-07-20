@@ -109,7 +109,7 @@
     "collection": {
       "type": "collection",
       "custom_css": [
-        "heading,collection. {color: white !important;}"
+        "heading, {color: white !important;}"
       ],
       "settings": {
         "title": "Compre seu ingresso",
@@ -204,6 +204,7 @@
         "image-bar-1",
         "image-bar-2"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "medium"
       }
