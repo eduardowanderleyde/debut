@@ -26,7 +26,7 @@
       "type": "collection",
       "settings": {
         "title": "Ingressos",
-        "collection": "produtos",
+        "collection": "eventos",
         "grid": 3,
         "rows": 2,
         "show_vendor": false,
