@@ -9,6 +9,8 @@
 */
 {
   "current": {
+    "color_text": "#ffffff",
+    "color_body_text": "#a6a3a3",
     "color_body_bg": "#000000",
     "sections": {
       "header": {

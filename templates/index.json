@@ -109,7 +109,7 @@
     "collection": {
       "type": "collection",
       "custom_css": [
-        "heading, {color: white !important;}"
+        "heading {color: white !important;}"
       ],
       "settings": {
         "title": "Compre seu ingresso",
