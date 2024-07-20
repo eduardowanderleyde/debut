@@ -97,6 +97,7 @@
     },
     "feature-row": {
       "type": "feature-row",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/CapturadeTela2024-07-19as20.49.17.png",
         "layout": "left",
