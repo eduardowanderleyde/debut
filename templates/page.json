@@ -55,19 +55,32 @@
     },
     "collection_7mJkwY": {
       "type": "collection",
+      "disabled": true,
       "settings": {
-        "title": "Loja",
+        "title": "Produtos",
         "collection": "produtos",
         "grid": 3,
         "rows": 2,
         "show_vendor": false,
         "show_view_all": false
       }
+    },
+    "feature_row_wYBe87": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-07-20_at_00.59.40_1.jpg",
+        "layout": "left",
+        "title": "Equipe do Bacurau",
+        "text": "<p>Team Bacurau<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
     "main",
     "image_bar_jfkd6t",
-    "collection_7mJkwY"
+    "collection_7mJkwY",
+    "feature_row_wYBe87"
   ]
 }
