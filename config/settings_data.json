@@ -9,6 +9,7 @@
 */
 {
   "current": {
+    "color_body_bg": "#000000",
     "sections": {
       "header": {
         "type": "header",
@@ -22,7 +23,7 @@
           "message_text": "Announce something here",
           "message_link": "",
           "color_bg": "#ffffff",
-          "color_text": "#000000"
+          "color_text": "#ffffff"
         }
       },
       "feature-row": {
@@ -142,7 +143,7 @@
         ],
         "settings": {
           "show_payment_icons": true,
-          "color_footer_bg": "#f6f6f6",
+          "color_footer_bg": "#ffffff",
           "color_footer_text": "#333232",
           "show_currency_selector": true,
           "show_locale_selector": true
