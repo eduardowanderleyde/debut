@@ -119,6 +119,7 @@
     },
     "hero-2": {
       "type": "hero",
+      "disabled": true,
       "settings": {
         "alignment": "center",
         "hero_layout": "full_width",
@@ -136,8 +137,8 @@
         "quotes-0": {
           "type": "quote",
           "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
+            "quote": "<p>Um rolê comigo no Bar mais apocaliptico do Recife<\/p>",
+            "author": "Victor Alves"
           }
         },
         "quotes-1": {
