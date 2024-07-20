@@ -1,0 +1,41 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "collection-template",
+      "disabled": true,
+      "settings": {
+        "layout": "grid",
+        "grid": 4,
+        "rows": 2,
+        "show_collection_image": true,
+        "show_vendor": false,
+        "sort_enable": true,
+        "tags_enable": true
+      }
+    },
+    "collection_tfVBDN": {
+      "type": "collection",
+      "settings": {
+        "title": "Ingressos",
+        "collection": "eventos",
+        "grid": 3,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collection_tfVBDN"
+  ]
+}
