@@ -1,0 +1,86 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "image_bar_jfkd6t": {
+      "type": "image-bar",
+      "blocks": {
+        "image_3anWWF": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
+          }
+        },
+        "image_NWrUnX": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
+          }
+        },
+        "image_KTWpYX": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_3anWWF",
+        "image_NWrUnX",
+        "image_KTWpYX"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "medium"
+      }
+    },
+    "collection_7mJkwY": {
+      "type": "collection",
+      "disabled": true,
+      "settings": {
+        "title": "Produtos",
+        "collection": "produtos",
+        "grid": 3,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
+      }
+    },
+    "feature_row_wYBe87": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-07-20_at_00.59.40_1.jpg",
+        "layout": "left",
+        "title": "Equipe do Bacurau",
+        "text": "<p>Team Bacurau<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_bar_jfkd6t",
+    "collection_7mJkwY",
+    "feature_row_wYBe87"
+  ]
+}
