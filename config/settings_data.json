@@ -13,6 +13,9 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [
+          "header.site-header a {color: white !important;}"
+        ],
         "settings": {
           "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/LOGO_circle_background.png",
