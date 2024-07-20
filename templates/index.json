@@ -108,6 +108,9 @@
     },
     "collection": {
       "type": "collection",
+      "custom_css": [
+        "h1, {color: black;}"
+      ],
       "settings": {
         "title": "Featured collection",
         "collection": "frontpage",
@@ -162,7 +165,7 @@
         "quotes-2"
       ],
       "custom_css": [
-        "h2,p,h1, div{color: white !important;}"
+        "h2,p,h1,div {color: white !important;}"
       ],
       "settings": {
         "title": "Comentários"
