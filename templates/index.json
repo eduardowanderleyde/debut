@@ -56,8 +56,8 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/CapturadeTela2024-07-19as20.49.17.png",
-            "title": "Calendário",
-            "text": "<p>Posto do calendário<\/p>",
+            "title": "Calendário Semanal",
+            "text": "",
             "button_label": "",
             "button_link": ""
           }
@@ -78,7 +78,7 @@
           "settings": {
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/449673405_1630242507829729_1641316052766622635_n.jpg",
-            "title": "Vem fazer  sua festa no Bacurau",
+            "title": "Vem fazer  sua festa no Bacurau!",
             "text": "<p>Faça seu próprio evento aqui!<\/p>",
             "button_label": "",
             "button_link": ""
