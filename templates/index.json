@@ -161,8 +161,11 @@
         "quotes-1",
         "quotes-2"
       ],
+      "custom_css": [
+        "h2,p,h1, div{color: white !important;}"
+      ],
       "settings": {
-        "title": ""
+        "title": "Comentários"
       }
     },
     "image-bar": {

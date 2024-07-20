@@ -146,8 +146,8 @@
         ],
         "settings": {
           "show_payment_icons": true,
-          "color_footer_bg": "#ffffff",
-          "color_footer_text": "#333232",
+          "color_footer_bg": "#000000",
+          "color_footer_text": "#ffffff",
           "show_currency_selector": true,
           "show_locale_selector": true
         }
@@ -555,5 +555,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "shopify-section-testimonials .testimonial__author {color: white !important;}"
+    ]
   }
 }
