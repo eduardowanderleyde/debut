@@ -66,9 +66,9 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/381660055_1021398452648705_3747019585210669127_n.jpg",
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "image": "shopify:\/\/shop_images\/Captura_de_Tela_2024-07-20_as_11.53.13.png",
+            "title": "Mazuli lança single \"Foi Mal\" com videoclipe gravado na Casa Bacurau;",
+            "text": "<p>O cantor e compositor pernambucano<strong>Mazuli<\/strong>escolheu a<strong>Casa Bacurau<\/strong>, a balada da vez do after recifense, como cenário do seu novo videoclipe do single \"<strong>Foi mal<\/strong>\"<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -109,10 +109,10 @@
     "collection": {
       "type": "collection",
       "custom_css": [
-        "h1, {color: white !important;}"
+        "heading,collection. {color: white !important;}"
       ],
       "settings": {
-        "title": "Featured collection",
+        "title": "Compre seu ingresso",
         "collection": "frontpage",
         "grid": 4,
         "rows": 2,
@@ -141,21 +141,21 @@
           "type": "quote",
           "settings": {
             "quote": "<p>Um rolê comigo no Bar mais apocaliptico do Recife<\/p>",
-            "author": "Victor Alves"
+            "author": "Alves, Victor"
           }
         },
         "quotes-1": {
           "type": "quote",
           "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
+            "quote": "<p>Eu amo esse lugar<\/p>",
+            "author": "Medeiros, Aldimar"
           }
         },
         "quotes-2": {
           "type": "quote",
           "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
+            "quote": "<p>Bacurau é um ícone!<\/p>",
+            "author": "Wanderley, Eduardo"
           }
         }
       },
