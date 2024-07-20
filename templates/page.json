@@ -68,7 +68,7 @@
       "type": "collection",
       "settings": {
         "title": "",
-        "collection": "",
+        "collection": "produtos",
         "grid": 3,
         "rows": 2,
         "show_vendor": false,
