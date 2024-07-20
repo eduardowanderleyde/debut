@@ -68,8 +68,8 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Captura_de_Tela_2024-07-20_as_11.53.13.png",
             "title": "Mazuli lança single \"Foi Mal\" com videoclipe gravado na Casa Bacurau;",
-            "text": "<p>O cantor e compositor pernambucano<strong>Mazuli<\/strong>escolheu a<strong>Casa Bacurau<\/strong>, a balada da vez do after recifense, como cenário do seu novo videoclipe do single \"<strong>Foi mal<\/strong>\"<\/p>",
-            "button_label": "",
+            "text": "<p>O cantor e compositor pernambucano <strong>Mazuli <\/strong>escolheu a <strong>Casa Bacurau<\/strong>, a balada do after recifense, como cenário do seu novo videoclipe do single \"<strong>Foi mal<\/strong>\"<\/p>",
+            "button_label": "Clique aqui",
             "button_link": ""
           }
         },
@@ -165,7 +165,7 @@
         "quotes-2"
       ],
       "custom_css": [
-        "h2,p,h1,div {color: white !important;}"
+        "h2,p,div {color: white !important;}"
       ],
       "settings": {
         "title": "Comentários"
