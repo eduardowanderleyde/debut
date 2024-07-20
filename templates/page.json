@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "page-template",
+      "disabled": true,
       "settings": {
       }
     },
@@ -51,10 +52,22 @@
       "settings": {
         "section_height": "medium"
       }
+    },
+    "collection_7mJkwY": {
+      "type": "collection",
+      "settings": {
+        "title": "Loja",
+        "collection": "produtos",
+        "grid": 3,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
     "main",
-    "image_bar_jfkd6t"
+    "image_bar_jfkd6t",
+    "collection_7mJkwY"
   ]
 }
