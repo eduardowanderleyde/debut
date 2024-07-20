@@ -109,7 +109,7 @@
     "collection": {
       "type": "collection",
       "custom_css": [
-        "h1, {color: black;}"
+        "h1, {color: white !important;}"
       ],
       "settings": {
         "title": "Featured collection",
