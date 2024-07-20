@@ -52,15 +52,15 @@
         "section_height": "medium"
       }
     },
-    "map_q4eEgY": {
+    "map_fMdqQD": {
       "type": "map",
       "settings": {
-        "heading": "Nosso Bar",
-        "address": "<p>Rua Capitão Lima, 100 - Santo Amaro, Recife - PE, 50040-080<\/p><p>bar • pista • quintal • after ✊🏾🏳️‍🌈<br\/>◾️ <br\/>De quarta a domingo, a partir das 22h<\/p>",
-        "map_address": "https:\/\/maps.app.goo.gl\/FMkVnFVXFDvQKSfb7",
-        "button_text": "https:\/\/maps.app.goo.gl\/FMkVnFVXFDvQKSfb7",
+        "heading": "Our store",
+        "address": "<p>123 Fake St.<br\/>Toronto, Canada<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 9pm<br\/>Sunday, 11am - 5pm<\/p>",
+        "map_address": "301 Front St W, Toronto",
+        "button_text": "Get directions",
         "show_pin": true,
-        "api_key": "AIzaSyDooi51QqAvq6gZ5asmPPPVtUca122T_CM",
+        "api_key": "https:\/\/maps.app.goo.gl\/FMkVnFVXFDvQKSfb7",
         "background_image_position": "center center"
       }
     }
@@ -68,6 +68,6 @@
   "order": [
     "main",
     "image_bar_jfkd6t",
-    "map_q4eEgY"
+    "map_fMdqQD"
   ]
 }
