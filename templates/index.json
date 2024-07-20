@@ -23,17 +23,6 @@
         "button_link": ""
       }
     },
-    "feature-row": {
-      "type": "feature-row",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CapturadeTela2024-07-19as20.49.17.png",
-        "layout": "left",
-        "title": "Calendário da Semana",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-        "button_label": "ae",
-        "button_link": ""
-      }
-    },
     "feature-columns": {
       "type": "feature-columns",
       "blocks": {
@@ -41,6 +30,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/CapturadeTela2024-07-19as20.49.17.png",
             "title": "Add a title or tagline",
             "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
             "button_label": "",
@@ -51,6 +41,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/CapturadeTela2024-07-19as20.52.54.png",
             "title": "Add a title or tagline",
             "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
             "button_label": "",
@@ -61,6 +52,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/449673405_1630242507829729_1641316052766622635_n.jpg",
             "title": "Add a title or tagline",
             "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
             "button_label": "",
@@ -76,6 +68,17 @@
       "settings": {
         "title": "",
         "align_text": "left"
+      }
+    },
+    "feature-row": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CapturadeTela2024-07-19as20.49.17.png",
+        "layout": "left",
+        "title": "Calendário da Semana",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "button_label": "ae",
+        "button_link": ""
       }
     },
     "collection": {
@@ -176,8 +179,8 @@
   },
   "order": [
     "hero-1",
-    "feature-row",
     "feature-columns",
+    "feature-row",
     "collection",
     "hero-2",
     "quotes",
